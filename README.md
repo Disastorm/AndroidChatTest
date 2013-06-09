@@ -1,2 +1,2 @@
-AndroidChatETest
+AndroidChatTest
 ================
